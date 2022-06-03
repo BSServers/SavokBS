@@ -1,2 +1,1 @@
-- Good python, batch, js dev.
-[Profile Views]
+Hi, I'm SaVok. | [![Profile Views](https://t.me/vokesprojects)](https://github.com/savokbs)
