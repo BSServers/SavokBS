@@ -1,3 +1,6 @@
-Hi, I'm SaVok. | [![Profile Views](https://gpvc.arturio.dev/savokbs)](https://t.me/vokesprojects)
+### **Python, Batch, JS developer.**
 
-Good python, batch. js dev.
+![FanyaOff's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanyaOff&layout=compact&langs_count=7&theme=dracula)
+
+![FanyaOff's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FanyaOff&layout=compact&langs_count=7&theme=dracula)
+[![Profile Views](https://gpvc.arturio.dev/savokbs)](https://t.me/vokesprojects)
